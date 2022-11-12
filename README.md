@@ -1,11 +1,11 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% 							%%
-%%%							%%
-%%%							%%
-%%%		   C Programs				%%
-%%%							%%
-%%%  Author : Subbaramaiah Chevuru			%%
-%%%  Mail   : ram.subaram@gmail.com			%%
+%%% 							                                      %%
+%%%							                                        %%
+%%%							 																				%%
+%%%		   						C Programs													%%
+%%%																											%%
+%%%  Author : Subbaramaiah Chevuru											%%
+%%%  Mail   : ram.subaram@gmail.com											%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
