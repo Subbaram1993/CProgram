@@ -24,8 +24,13 @@
 
 int main()
 {
+
+   char name[25];
+   printf("\nEnter the name: \n");
+   scanf("%[^\n]s",name);
    //Printing the Hello World Message.
-   printf("\n\"Hello World......!\"\n");
+   printf("\n\"Hello ......!\"\n");
+   printf("\nWelcome to \"%s\"\n",name);
    return 0;
 }
 
