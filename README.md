@@ -32,6 +32,7 @@ Welcome to the **C Program Repository**, where you'll find a collection of C pro
 ```bash
 # Clone the repository
 git clone https://github.com/Subbaram1993/CProgram.git
+```
 
 # Navigate to the project directory
 cd CProgram
@@ -61,4 +62,4 @@ This project is licensed under the MIT License.
 
 🖼️ Screenshots
 <p align="center"> <img src="https://via.placeholder.com/600x300" alt="Sample Output Screenshot" /> <br /> <strong>Fig. 1:</strong> Example program output. </p>
-<p align="center"> Built with ❤️ by [Subbaram](https://github.com/Subbaram1993) </p>
+<p align="center"> Built with ❤️ by [Subbaram](https://github.com/Subbaram1993) </p> ```
