@@ -1,7 +1,7 @@
 # 🌟 C Program Repository
 
 <p align="center">
-  <img src="https://via.placeholder.com/200" alt="Project Logo" />
+  <img src="https://avatars.githubusercontent.com/u/74912140?v=4&size=64" alt="Project Logo" />
 </p>
 
 ---
