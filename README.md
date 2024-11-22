@@ -33,30 +33,40 @@ Welcome to the **C Program Repository**, where you'll find a collection of C pro
 # Clone the repository
 git clone https://github.com/Subbaram1993/CProgram.git
 ```
-
+```
 # Navigate to the project directory
 cd CProgram
-Compile the Code
+```
+```
+# Compile the Code
 Use a C compiler such as GCC to compile and run the programs:
-
 # Compile a C program
 gcc -o output src/example.c
-
+```
+```
 # Run the compiled program
 ./output
+```
+
 ###  🛠️ Features
+```
 Comprehensive Examples: Covering beginner to advanced topics.
 Modular Code: Easy to navigate and reuse.
 Extensive Comments: Programs are well-documented for learning.
+```
+
 🤝 Contributing
 Contributions are welcome! Here’s how you can contribute:
 
-Fork this repository.
+# Fork this repository.
+```
 Create a branch for your feature: git checkout -b feature-name.
 Commit your changes: git commit -m "Add feature-name".
 Push to your branch: git push origin feature-name.
 Open a Pull Request.
 <a href="https://github.com/Subbaram1993/CProgram/issues"> <button style="background-color: #007bff; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px;">Report Issues</button> </a>
+```
+
 📜 License
 This project is licensed under the MIT License.
 
