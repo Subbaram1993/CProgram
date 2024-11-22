@@ -43,7 +43,7 @@ gcc -o output src/example.c
 
 # Run the compiled program
 ./output
-🛠️ Features
+###  🛠️ Features
 Comprehensive Examples: Covering beginner to advanced topics.
 Modular Code: Easy to navigate and reuse.
 Extensive Comments: Programs are well-documented for learning.
