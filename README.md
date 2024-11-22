@@ -69,12 +69,12 @@ Open a Pull Request.
 <a href="https://github.com/Subbaram1993/CProgram/issues"> <button style="background-color: #007bff; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px;">Report Issues</button> </a>
 
 
-📜 License
+###   📜 License
  
 This project is licensed under the <a href="https://github.com/Subbaram1993/CProgram/blob/master/README.md"> <button style="background-color: #007bff; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px;">README.md </button> </a> 
 
 
-🖼️ Screenshots
+###   🖼️ Screenshots
 
 <p align="center"> <img src="https://via.placeholder.com/600x300" alt="Sample Output Screenshot" /> <br /> <strong>Fig. 1:</strong> Example program output. </p>
 <p align="center"> Built with ❤️ by [Subbaram](https://github.com/Subbaram1993) </p> 
