@@ -64,16 +64,16 @@ Contributions are welcome! Here’s how you can contribute:
 Create a branch for your feature: git checkout -b feature-name.
 Commit your changes: git commit -m "Add feature-name".
 Push to your branch: git push origin feature-name.
-Open a Pull Request.
+Open a Pull Request. ```
 <a href="https://github.com/Subbaram1993/CProgram/issues"> <button style="background-color: #007bff; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px;">Report Issues</button> </a>
-```
+
 
 📜 License
-``` 
+ 
 This project is licensed under the <a href="https://github.com/Subbaram1993/CProgram/blob/master/README.md"> <button style="background-color: #007bff; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px;">Report Issues</button> </a> MIT License.
-```
+
 
 🖼️ Screenshots
-```
+
 <p align="center"> <img src="https://via.placeholder.com/600x300" alt="Sample Output Screenshot" /> <br /> <strong>Fig. 1:</strong> Example program output. </p>
-<p align="center"> Built with ❤️ by [Subbaram](https://github.com/Subbaram1993) </p> ```
+<p align="center"> Built with ❤️ by [Subbaram](https://github.com/Subbaram1993) </p> 
