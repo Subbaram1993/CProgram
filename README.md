@@ -61,9 +61,9 @@ Contributions are welcome! Here’s how you can contribute:
 
 # Fork this repository.
 ```
-Create a branch for your feature: **git checkout -b feature-name**.
-Commit your changes: **git commit -m "Add feature-name"**.
-Push to your branch: **git push origin feature-name**.
+Create a branch for your feature: git checkout -b feature-name.
+Commit your changes: git commit -m "Add feature-name".
+Push to your branch: git push origin feature-name.
 Open a Pull Request.
 ```
 <a href="https://github.com/Subbaram1993/CProgram/issues"> <button style="background-color: #007bff; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px;">Report Issues</button> </a>
