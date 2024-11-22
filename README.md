@@ -56,10 +56,10 @@ Extensive Comments: Programs are well-documented for learning.
 ```
 
 🤝 Contributing
+
 Contributions are welcome! Here’s how you can contribute:
 
 # Fork this repository.
-```
 Create a branch for your feature: git checkout -b feature-name.
 Commit your changes: git commit -m "Add feature-name".
 Push to your branch: git push origin feature-name.
