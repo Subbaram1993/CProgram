@@ -60,6 +60,7 @@ Extensive Comments: Programs are well-documented for learning.
 Contributions are welcome! Here’s how you can contribute:
 
 # Fork this repository.
+```
 Create a branch for your feature: git checkout -b feature-name.
 Commit your changes: git commit -m "Add feature-name".
 Push to your branch: git push origin feature-name.
@@ -71,5 +72,6 @@ Open a Pull Request.
 This project is licensed under the MIT License.
 
 🖼️ Screenshots
+```
 <p align="center"> <img src="https://via.placeholder.com/600x300" alt="Sample Output Screenshot" /> <br /> <strong>Fig. 1:</strong> Example program output. </p>
 <p align="center"> Built with ❤️ by [Subbaram](https://github.com/Subbaram1993) </p> ```
