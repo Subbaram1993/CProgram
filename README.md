@@ -69,7 +69,9 @@ Open a Pull Request.
 ```
 
 📜 License
-``` This project is licensed under the MIT License. ```
+``` 
+This project is licensed under the <a href="https://github.com/Subbaram1993/CProgram/blob/master/README.md"> <button style="background-color: #007bff; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px;">Report Issues</button> </a> MIT License.
+```
 
 🖼️ Screenshots
 ```
