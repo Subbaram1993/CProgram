@@ -55,7 +55,7 @@ Modular Code: Easy to navigate and reuse.
 Extensive Comments: Programs are well-documented for learning.
 ```
 
-🤝 Contributing
+###  🤝 Contributing
 
 Contributions are welcome! Here’s how you can contribute:
 
